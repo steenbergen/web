@@ -7,10 +7,11 @@ about:
   links:
     - icon: envelope
       text: Email
-      href: mailto:marco.steenbergen@gmail.com
+      href: mailto:steenbergen@ipz.uzh.ch
+    - icon; 
     - icon: github
       text: GitHub
-      href: https://github.com          # TODO: your GitHub profile
+      href: https://github.com/steenbergen         
     - icon: mortarboard
       text: Google Scholar
       href: https://scholar.google.com  # TODO: your Scholar profile

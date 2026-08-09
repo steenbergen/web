@@ -24,6 +24,12 @@ website:
       - icon: github
         href: https://github.com/steenbergen
         aria-label: GitHub
+      - text: "{{< ai orcid >}}"
+        href: https://orcid.org/0000-0002-5709-5165
+        aria-label: ORCID
+      - text: "{{< ai osf >}}"
+        href: https://osf.io/2nczj/
+        aria-label: OSF
   page-footer:
     center: |
       © 2026 Marco Steenbergen · Built with [Quarto](https://quarto.org)
