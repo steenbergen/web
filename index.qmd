@@ -17,7 +17,7 @@ about:
       href: https://scholar.google.com  # TODO: your Scholar profile
     - icon: journal-text
       text: Substack
-      href: https://substack.com        # TODO: your Substack
+      href: https://augmentedinquiry.substack.com
 toc: false
 ---
 
@@ -28,7 +28,8 @@ psychology, and public opinion. <!-- TODO: replace with your own blurb -->
 
 This site collects my [CV](cv.qmd), [teaching materials](teaching.qmd),
 [software](software.qmd), and [working papers](papers.qmd). For occasional
-longer-form writing, subscribe to my Substack.
+longer-form writing, subscribe to my Substack,
+[Augmented Inquiry](https://augmentedinquiry.substack.com).
 
 ## Interests
 

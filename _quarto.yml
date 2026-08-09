@@ -20,7 +20,7 @@ website:
         href: papers.qmd
     right:
       - text: "Substack"
-        href: https://substack.com   # TODO: replace with your Substack URL
+        href: https://augmentedinquiry.substack.com
       - icon: github
         href: https://github.com/steenbergen
         aria-label: GitHub
