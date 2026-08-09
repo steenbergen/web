@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Marco Steenbergen"
+  description: "Personal academic website"
+  navbar:
+    background: primary
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "Software"
+        href: software.qmd
+      - text: "Working Papers"
+        href: papers.qmd
+    right:
+      - text: "Substack"
+        href: https://substack.com   # TODO: replace with your Substack URL
+      - icon: github
+        href: https://github.com     # TODO: replace with your GitHub profile
+        aria-label: GitHub
+  page-footer:
+    center: |
+      © 2026 Marco Steenbergen · Built with [Quarto](https://quarto.org)
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles/theme.scss
+    toc: true
+    link-external-newwindow: true

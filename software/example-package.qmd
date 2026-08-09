@@ -1,0 +1,18 @@
+---
+title: "examplepkg"
+description: "An R package for … (co-developed with …)"
+---
+
+<!-- TODO: replace with a real package -->
+
+**What it does.** One-paragraph description of the package.
+
+**Installation**
+
+```r
+install.packages("examplepkg")
+# or the development version:
+remotes::install_github("user/examplepkg")
+```
+
+**Links:** [GitHub](#) · [CRAN](#) · [Documentation](#)

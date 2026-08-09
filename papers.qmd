@@ -1,0 +1,19 @@
+---
+title: "Working Papers"
+toc: false
+---
+
+Current working papers. Drafts are linked where available; comments are
+welcome by [email](mailto:marco.steenbergen@gmail.com).
+
+<!-- TODO: replace with real papers. Keep the newest on top. -->
+
+## 2026
+
+**Title of Working Paper One** (with Co-Author)
+Short one-sentence abstract or status note (e.g., under review).
+[Draft PDF](files/paper1.pdf) · [Replication materials](#)
+
+**Title of Working Paper Two**
+Short one-sentence abstract or status note.
+[Draft PDF](#)

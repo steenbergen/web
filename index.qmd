@@ -1,0 +1,44 @@
+---
+title: "Marco Steenbergen"
+about:
+  template: trestles
+  image: images/profile.svg   # TODO: replace with a photo, e.g. images/profile.jpg
+  image-shape: rounded
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:marco.steenbergen@gmail.com
+    - icon: github
+      text: GitHub
+      href: https://github.com          # TODO: your GitHub profile
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com  # TODO: your Scholar profile
+    - icon: journal-text
+      text: Substack
+      href: https://substack.com        # TODO: your Substack
+toc: false
+---
+
+## Welcome
+
+I am a political scientist working on political methodology, political
+psychology, and public opinion. <!-- TODO: replace with your own blurb -->
+
+This site collects my [CV](cv.qmd), [teaching materials](teaching.qmd),
+[software](software.qmd), and [working papers](papers.qmd). For occasional
+longer-form writing, subscribe to my Substack.
+
+## Interests
+
+- Political methodology
+- Measurement and scaling
+- Machine learning for the social sciences
+
+## Education
+
+**PhD in Political Science** <!-- TODO -->
+University, Year
+
+**MA in Political Science** <!-- TODO -->
+University, Year

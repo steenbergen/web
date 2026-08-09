@@ -1,0 +1,86 @@
+/*-- scss:defaults --*/
+
+// Fonts
+// Agdasima: the condensed display font used for headings on
+// barcelonafoodexperience.com. Source Sans 3: a modern humanist sans
+// for body text (their site uses the serif Lora instead).
+@import url('https://fonts.googleapis.com/css2?family=Agdasima:wght@400;700&family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&display=swap');
+
+$font-family-sans-serif: "Source Sans 3", -apple-system, BlinkMacSystemFont,
+  "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+$headings-font-family: "Agdasima", $font-family-sans-serif;
+$headings-font-weight: 700;
+
+// Palette taken from barcelonafoodexperience.com
+$olive: #434d36;        // dark accent: headings, navbar, buttons, links
+$sand:  #d4c3b2;        // warm light accent
+$cream: #faf7f2;        // light tint of the sand, easier on the eyes for long text
+$ink:   #1f2318;        // near-black with a hint of olive
+
+$primary: $olive;
+$body-bg: $cream;
+$body-color: $ink;
+$link-color: $olive;
+$link-decoration: underline;
+
+$navbar-bg: $olive;
+$navbar-fg: #ffffff;
+$footer-bg: $sand;
+$footer-fg: $ink;
+
+$code-bg: rgba($sand, 0.35);
+$code-color: darken($olive, 5%);
+
+/*-- scss:rules --*/
+
+// Agdasima is condensed and runs small; scale headings up and add
+// a little letter-spacing so they read like the reference site.
+h1, h2, h3, h4, .navbar-brand {
+  letter-spacing: 0.02em;
+  text-transform: none;
+}
+
+h1, .title { font-size: 2.8rem; color: $olive; }
+h2 { font-size: 2.1rem; color: $olive; border-bottom: 2px solid $sand; padding-bottom: 0.2rem; }
+h3 { font-size: 1.7rem; color: lighten($olive, 8%); }
+
+.navbar-brand {
+  font-family: "Agdasima", sans-serif;
+  font-weight: 700;
+  font-size: 1.6rem;
+}
+
+.navbar .nav-link {
+  font-family: "Agdasima", sans-serif;
+  font-weight: 700;
+  font-size: 1.25rem;
+  letter-spacing: 0.03em;
+}
+
+body {
+  font-size: 1.05rem;
+  line-height: 1.65;
+}
+
+a:hover { color: darken($olive, 8%); }
+
+blockquote {
+  border-left: 4px solid $sand;
+  background: rgba($sand, 0.2);
+  padding: 0.5rem 1rem;
+}
+
+.btn-primary {
+  background-color: $olive;
+  border-color: $olive;
+  &:hover { background-color: darken($olive, 8%); border-color: darken($olive, 8%); }
+}
+
+// Listing cards (teaching / software / papers)
+.card {
+  background-color: #ffffff;
+  border: 1px solid rgba($sand, 0.8);
+}
+.card-title { font-family: "Agdasima", sans-serif; font-weight: 700; }
+
+.page-footer { border-top: 3px solid $olive; }

@@ -1,0 +1,22 @@
+---
+title: "Introduction to Political Methodology"
+description: "MA course · slides, syllabus, and R labs"
+date: 2026-02-01
+---
+
+<!-- TODO: replace with a real course -->
+
+## Syllabus
+
+[Download the syllabus (PDF)](../files/syllabus-example.pdf)
+
+## Slides
+
+| Week | Topic | Slides |
+|------|-------|--------|
+| 1 | Introduction | [PDF](#) |
+| 2 | Linear models | [PDF](#) |
+
+## Labs
+
+Lab materials are on GitHub. <!-- TODO: link the repo -->

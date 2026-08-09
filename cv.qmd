@@ -1,0 +1,30 @@
+---
+title: "Curriculum Vitae"
+toc: true
+---
+
+::: {.callout-note appearance="simple" icon=false}
+📄 [Download the full CV as PDF](files/cv.pdf){.btn .btn-primary}
+<!-- Put your cv.pdf in the files/ folder -->
+:::
+
+## Academic Positions
+
+**Professor of Political Methodology** <!-- TODO -->
+University, Year–present
+
+## Selected Publications
+
+<!-- TODO: either list highlights here by hand, or manage them with a
+.bib file and Quarto citations. Example entry: -->
+
+1. Author, A., & Steenbergen, M. (Year). Title of the article.
+   *Journal Name*, Volume(Issue), pages.
+
+## Grants & Awards
+
+- Grant or award, funder, year <!-- TODO -->
+
+## Service
+
+- Editorial board memberships, reviewing, committee work <!-- TODO -->

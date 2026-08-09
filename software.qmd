@@ -1,0 +1,12 @@
+---
+title: "Software"
+listing:
+  contents: software
+  type: default
+  sort: "title"
+  fields: [title, description]
+toc: false
+---
+
+Software I have developed or co-developed. Add a `.qmd` file to the
+`software/` folder for each package or tool.
