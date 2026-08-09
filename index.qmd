@@ -2,7 +2,7 @@
 title: "Marco Steenbergen"
 about:
   template: trestles
-  image: images/profile.svg   # TODO: replace with a photo, e.g. images/profile.jpg
+  image: images/profile.jpg
   image-shape: rounded
   links:
     - icon: envelope
@@ -23,7 +23,10 @@ political science, psychology, and computation now defines my work. I have
 ranged across many topics, but my current interests center on theoretical and
 methodological approaches to choice modeling, polarization in complex
 ideological landscapes, AI and political cognition, and AI in social science
-research methods. I am co-editor of *Advances in Political Psychology*.
+research methods. I am currently a professor of political methodology at the
+University of Zurich. I am also the co-editor of
+*Advances in Political Psychology*, as well as associate editor of various
+other journals.
 
 This site collects my [CV](cv.qmd), [teaching materials](teaching.qmd),
 [software](software.qmd), and [working papers](papers.qmd). For occasional
@@ -39,8 +42,8 @@ longer-form writing, subscribe to my Substack,
 
 ## Education
 
-**PhD in Political Science** <!-- TODO -->
-University, Year
+**PhD in Political Science**
+Stony Brook University, 1994
 
-**MA in Political Science** <!-- TODO -->
-University, Year
+**MA (Drs.) in Political Science** 
+University of Amsterdam, 1988
