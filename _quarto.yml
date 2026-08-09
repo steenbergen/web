@@ -22,7 +22,7 @@ website:
       - text: "Substack"
         href: https://substack.com   # TODO: replace with your Substack URL
       - icon: github
-        href: https://github.com     # TODO: replace with your GitHub profile
+        href: https://github.com/steenbergen
         aria-label: GitHub
   page-footer:
     center: |
