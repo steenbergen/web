@@ -8,16 +8,6 @@ about:
     - icon: envelope
       text: Email
       href: mailto:steenbergen@ipz.uzh.ch
-    - icon; 
-    - icon: github
-      text: GitHub
-      href: https://github.com/steenbergen         
-    - icon: mortarboard
-      text: Google Scholar
-      href: https://scholar.google.com  # TODO: your Scholar profile
-    - icon: journal-text
-      text: Substack
-      href: https://augmentedinquiry.substack.com
 toc: false
 ---
 

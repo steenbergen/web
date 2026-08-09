@@ -19,8 +19,9 @@ website:
       - text: "Working Papers"
         href: papers.qmd
     right:
-      - text: "Substack"
+      - icon: substack
         href: https://augmentedinquiry.substack.com
+        aria-label: Substack
       - icon: github
         href: https://github.com/steenbergen
         aria-label: GitHub
