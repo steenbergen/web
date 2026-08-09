@@ -1,0 +1,128 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "📄 Download the full CV as PDF"
+  },
+  {
+    "objectID": "cv.html#academic-positions",
+    "href": "cv.html#academic-positions",
+    "title": "Curriculum Vitae",
+    "section": "Academic Positions",
+    "text": "Academic Positions\nProfessor of Political Methodology  University, Year–present"
+  },
+  {
+    "objectID": "cv.html#selected-publications",
+    "href": "cv.html#selected-publications",
+    "title": "Curriculum Vitae",
+    "section": "Selected Publications",
+    "text": "Selected Publications\n\n\nAuthor, A., & Steenbergen, M. (Year). Title of the article. Journal Name, Volume(Issue), pages."
+  },
+  {
+    "objectID": "cv.html#grants-awards",
+    "href": "cv.html#grants-awards",
+    "title": "Curriculum Vitae",
+    "section": "Grants & Awards",
+    "text": "Grants & Awards\n\nGrant or award, funder, year"
+  },
+  {
+    "objectID": "cv.html#service",
+    "href": "cv.html#service",
+    "title": "Curriculum Vitae",
+    "section": "Service",
+    "text": "Service\n\nEditorial board memberships, reviewing, committee work"
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "Software I have developed or co-developed. Add a .qmd file to the software/ folder for each package or tool.\n\n\n\n\n\n\n\n\n\nexamplepkg\n\n\nAn R package for … (co-developed with …)\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Marco Steenbergen",
+    "section": "",
+    "text": "I am a political scientist working on political methodology, political psychology, and public opinion. \nThis site collects my CV, teaching materials, software, and working papers. For occasional longer-form writing, subscribe to my Substack."
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Marco Steenbergen",
+    "section": "",
+    "text": "I am a political scientist working on political methodology, political psychology, and public opinion. \nThis site collects my CV, teaching materials, software, and working papers. For occasional longer-form writing, subscribe to my Substack."
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "Marco Steenbergen",
+    "section": "Interests",
+    "text": "Interests\n\nPolitical methodology\nMeasurement and scaling\nMachine learning for the social sciences"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Marco Steenbergen",
+    "section": "Education",
+    "text": "Education\nPhD in Political Science  University, Year\nMA in Political Science  University, Year"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Courses I teach, with slides, syllabi, and lab materials. Each card below is a page in the teaching/ folder — add a new .qmd file there and it appears here automatically.\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Political Methodology\n\n\nMA course · slides, syllabus, and R labs\n\n\n\nFeb 1, 2026\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "papers.html",
+    "href": "papers.html",
+    "title": "Working Papers",
+    "section": "",
+    "text": "Current working papers. Drafts are linked where available; comments are welcome by email."
+  },
+  {
+    "objectID": "papers.html#section",
+    "href": "papers.html#section",
+    "title": "Working Papers",
+    "section": "2026",
+    "text": "2026\nTitle of Working Paper One (with Co-Author) Short one-sentence abstract or status note (e.g., under review). Draft PDF · Replication materials\nTitle of Working Paper Two Short one-sentence abstract or status note. Draft PDF"
+  },
+  {
+    "objectID": "software/example-package.html",
+    "href": "software/example-package.html",
+    "title": "examplepkg",
+    "section": "",
+    "text": "What it does. One-paragraph description of the package.\nInstallation\ninstall.packages(\"examplepkg\")\n# or the development version:\nremotes::install_github(\"user/examplepkg\")\nLinks: GitHub · CRAN · Documentation"
+  },
+  {
+    "objectID": "teaching/example-course.html",
+    "href": "teaching/example-course.html",
+    "title": "Introduction to Political Methodology",
+    "section": "",
+    "text": "Download the syllabus (PDF)"
+  },
+  {
+    "objectID": "teaching/example-course.html#syllabus",
+    "href": "teaching/example-course.html#syllabus",
+    "title": "Introduction to Political Methodology",
+    "section": "",
+    "text": "Download the syllabus (PDF)"
+  },
+  {
+    "objectID": "teaching/example-course.html#slides",
+    "href": "teaching/example-course.html#slides",
+    "title": "Introduction to Political Methodology",
+    "section": "Slides",
+    "text": "Slides\n\n\n\nWeek\nTopic\nSlides\n\n\n\n\n1\nIntroduction\nPDF\n\n\n2\nLinear models\nPDF"
+  },
+  {
+    "objectID": "teaching/example-course.html#labs",
+    "href": "teaching/example-course.html#labs",
+    "title": "Introduction to Political Methodology",
+    "section": "Labs",
+    "text": "Labs\nLab materials are on GitHub."
+  }
+]

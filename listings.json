@@ -1,0 +1,14 @@
+[
+  {
+    "listing": "/software.html",
+    "items": [
+      "/software/example-package.html"
+    ]
+  },
+  {
+    "listing": "/teaching.html",
+    "items": [
+      "/teaching/example-course.html"
+    ]
+  }
+]
