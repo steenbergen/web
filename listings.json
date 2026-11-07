@@ -1,14 +1,29 @@
 [
   {
-    "listing": "/software.html",
-    "items": [
-      "/software/example-package.html"
-    ]
+    "listing": "/blog.html",
+    "items": []
   },
   {
     "listing": "/teaching.html",
     "items": [
-      "/teaching/example-course.html"
+      "/teaching/foundations.html",
+      "/teaching/inference.html",
+      "/teaching/measurement.html",
+      "/teaching/machine-learning.html",
+      "/teaching/political-psychology.html"
+    ]
+  },
+  {
+    "listing": "/research.html",
+    "items": [
+      "/papers/choice-under-complexity.html"
+    ]
+  },
+  {
+    "listing": "/software.html",
+    "items": [
+      "/software/brant.html",
+      "/software/forthcoming-package.html"
     ]
   }
 ]

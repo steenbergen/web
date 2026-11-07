@@ -1,31 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://steenbergen.github.io/web/cv.html</loc>
-    <lastmod>2026-08-09T12:33:43.022Z</lastmod>
+    <loc>https://steenbergen.github.io/web/blog.html</loc>
+    <lastmod>2026-11-07T09:14:40.290Z</lastmod>
   </url>
   <url>
-    <loc>https://steenbergen.github.io/web/software.html</loc>
-    <lastmod>2026-08-09T12:33:43.023Z</lastmod>
+    <loc>https://steenbergen.github.io/web/teaching/measurement.html</loc>
+    <lastmod>2026-11-01T08:42:09.661Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steenbergen.github.io/web/teaching/political-psychology.html</loc>
+    <lastmod>2026-11-02T09:04:44.771Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steenbergen.github.io/web/teaching/machine-learning.html</loc>
+    <lastmod>2026-11-01T08:42:09.663Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steenbergen.github.io/web/software/brant.html</loc>
+    <lastmod>2026-11-02T14:12:05.182Z</lastmod>
   </url>
   <url>
     <loc>https://steenbergen.github.io/web/index.html</loc>
-    <lastmod>2026-08-09T18:51:12.751Z</lastmod>
+    <lastmod>2026-11-01T08:38:59.621Z</lastmod>
   </url>
   <url>
     <loc>https://steenbergen.github.io/web/teaching.html</loc>
-    <lastmod>2026-08-09T12:33:43.024Z</lastmod>
+    <lastmod>2026-11-02T09:03:53.394Z</lastmod>
   </url>
   <url>
-    <loc>https://steenbergen.github.io/web/papers.html</loc>
-    <lastmod>2026-08-09T12:33:43.023Z</lastmod>
+    <loc>https://steenbergen.github.io/web/research.html</loc>
+    <lastmod>2026-10-30T12:01:18.733Z</lastmod>
   </url>
   <url>
-    <loc>https://steenbergen.github.io/web/software/example-package.html</loc>
-    <lastmod>2026-08-09T12:33:43.023Z</lastmod>
+    <loc>https://steenbergen.github.io/web/papers/choice-under-complexity.html</loc>
+    <lastmod>2026-10-30T12:01:18.736Z</lastmod>
   </url>
   <url>
-    <loc>https://steenbergen.github.io/web/teaching/example-course.html</loc>
-    <lastmod>2026-08-09T12:33:43.024Z</lastmod>
+    <loc>https://steenbergen.github.io/web/software/forthcoming-package.html</loc>
+    <lastmod>2026-11-02T15:16:29.809Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steenbergen.github.io/web/software.html</loc>
+    <lastmod>2026-11-02T14:12:05.190Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steenbergen.github.io/web/teaching/inference.html</loc>
+    <lastmod>2026-11-01T08:42:09.658Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steenbergen.github.io/web/teaching/foundations.html</loc>
+    <lastmod>2026-11-01T08:42:09.655Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steenbergen.github.io/web/cv.html</loc>
+    <lastmod>2026-11-07T09:40:44.347Z</lastmod>
   </url>
 </urlset>

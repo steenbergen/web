@@ -1,5 +1,152 @@
 [
   {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Notes on methods, data, and code, with the code left in. For longer essays on using AI in research, see my Substack, Augmented Inquiry.\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "teaching/measurement.html",
+    "href": "teaching/measurement.html",
+    "title": "Measurement",
+    "section": "",
+    "text": "Materials to come."
+  },
+  {
+    "objectID": "teaching/political-psychology.html",
+    "href": "teaching/political-psychology.html",
+    "title": "Political Psychology",
+    "section": "",
+    "text": "Materials to come."
+  },
+  {
+    "objectID": "teaching/machine-learning.html",
+    "href": "teaching/machine-learning.html",
+    "title": "Machine Learning",
+    "section": "",
+    "text": "In interpretable machine learning, breakdown plots and Shap-values can be seen as different methods applied to a so-called coalition lattice. These notes show how to create a coalition lattice and how to derive different post-hoc interpretations from it, with a worked example on an ensemble of five trees (August 2026, 19 pages).\nPDF"
+  },
+  {
+    "objectID": "teaching/machine-learning.html#coalition-lattices-for-interpretable-machine-learning",
+    "href": "teaching/machine-learning.html#coalition-lattices-for-interpretable-machine-learning",
+    "title": "Machine Learning",
+    "section": "",
+    "text": "In interpretable machine learning, breakdown plots and Shap-values can be seen as different methods applied to a so-called coalition lattice. These notes show how to create a coalition lattice and how to derive different post-hoc interpretations from it, with a worked example on an ensemble of five trees (August 2026, 19 pages).\nPDF"
+  },
+  {
+    "objectID": "software/brant.html",
+    "href": "software/brant.html",
+    "title": "brant",
+    "section": "",
+    "text": "What it does. Tests the parallel regression assumption (Brant 1990) for ordinal logit models fitted with polr() from the MASS package. Developed with Benjamin Schlegel.\nInstallation\ninstall.packages(\"brant\")\nLinks: CRAN · Package website · Brant (1990)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Marco R. Steenbergen",
+    "section": "",
+    "text": "Hailing from the Netherlands, I have bounced between Europe and North America in pursuit of one abiding question: how do people—politicians and citizens alike—arrive at their political judgments and decisions? The search has taken me to the intersection of political science and psychology, with rigorous quantitative methods as my instruments of choice. Increasingly, those methods draw on computational social science, and this blend of political science, psychology, and computation now defines my work. I have worked on many topics, but my current interests center on theoretical and methodological approaches to choice modeling, polarization in complex ideological landscapes, AI and political cognition and communication, and AI in social science research methods. I am currently a professor of political methodology at the University of Zurich. I am also the co-editor of Advances in Political Psychology, as well as Specialty Chief Editor for Frontiers.\nThis site collects my CV, teaching resources, software, research, and blog. For occasional longer-form writing, subscribe to my Substack, Augmented Inquiry."
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Marco R. Steenbergen",
+    "section": "",
+    "text": "Hailing from the Netherlands, I have bounced between Europe and North America in pursuit of one abiding question: how do people—politicians and citizens alike—arrive at their political judgments and decisions? The search has taken me to the intersection of political science and psychology, with rigorous quantitative methods as my instruments of choice. Increasingly, those methods draw on computational social science, and this blend of political science, psychology, and computation now defines my work. I have worked on many topics, but my current interests center on theoretical and methodological approaches to choice modeling, polarization in complex ideological landscapes, AI and political cognition and communication, and AI in social science research methods. I am currently a professor of political methodology at the University of Zurich. I am also the co-editor of Advances in Political Psychology, as well as Specialty Chief Editor for Frontiers.\nThis site collects my CV, teaching resources, software, research, and blog. For occasional longer-form writing, subscribe to my Substack, Augmented Inquiry."
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "Marco R. Steenbergen",
+    "section": "Interests",
+    "text": "Interests\n\nChoice modeling\nPolarization in complex ideological landscapes\nAI and political cognition and communication\nAI in social science research methods"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Marco R. Steenbergen",
+    "section": "Education",
+    "text": "Education\nPhD in Political Science Stony Brook University, 1994\nMA (Drs.) in Political Science University of Amsterdam, 1988"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Notes and primers I have written that you may find useful. Many of these cover statistics and data science, while others focus on substantive topics.\n\n\n\n\n\n\n\n\n\n\n\nFoundations\n\n\nMathematical and statistical foundations.\n\n\n\n\n\n\n\n\n\nInference\n\n\nMaximum likelihood, method of moments, Bayesian inference, and hypothesis testing.\n\n\n\n\n\n\n\n\n\nMeasurement\n\n\nMaterials on measurement.\n\n\n\n\n\n\n\n\n\nMachine Learning\n\n\nMachine and deep learning.\n\n\n\n\n\n\n\n\n\nPolitical Psychology\n\n\nLecture notes I have used in the area of political psychology.\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Working papers, conference papers, and other unpublished work. Comments are welcome by email. Published articles are listed on my CV and Google Scholar profile.\n\n\n\n\n\n\n\n\n\nChoice under Complexity: A Heuristic-Systematic Model of Electoral Behavior\n\n\n\nConference paper\n\nVoting behavior\n\n\n\nConference paper · Midwest Political Science Association, Chicago, 2011\n\n\n\n\n\nMar 31, 2011\n\n\nMarco R. Steenbergen, Dominik Hangartner, Catherine E. de Vries\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "papers/choice-under-complexity.html",
+    "href": "papers/choice-under-complexity.html",
+    "title": "Choice under Complexity: A Heuristic-Systematic Model of Electoral Behavior",
+    "section": "",
+    "text": "This study develops and empirically substantiates a heuristic-systematic model of electoral behavior, in which we understand vote choice as a two-stage decision making process. In the first stage voters use broad-based heuristics, such as partisanship, to narrow down all possible choice options to a few viable choices. This subset of choice alternatives constitutes the choice set. In a subsequent second stage voters engage in more systematic processing behavior using campaign issues to select a final alternative from the choice set.\nWe apply these ideas to the 1992 US presidential elections and introduce a choice set logistic regression (CSLR) model which allows for the examination of both stages of electoral choice. The empirical results demonstrate that the heuristic-systematic model of electoral choice allows us both to better understand the electoral competition between Bush, Clinton and Perot in 1992 and to discover which voters are more inclined to consider more than one choice option. Consequently, this study has important implications for students of voting behavior and electoral competition and enriches our understanding of voters’ choices in third- or multi-party races."
+  },
+  {
+    "objectID": "papers/choice-under-complexity.html#abstract",
+    "href": "papers/choice-under-complexity.html#abstract",
+    "title": "Choice under Complexity: A Heuristic-Systematic Model of Electoral Behavior",
+    "section": "",
+    "text": "This study develops and empirically substantiates a heuristic-systematic model of electoral behavior, in which we understand vote choice as a two-stage decision making process. In the first stage voters use broad-based heuristics, such as partisanship, to narrow down all possible choice options to a few viable choices. This subset of choice alternatives constitutes the choice set. In a subsequent second stage voters engage in more systematic processing behavior using campaign issues to select a final alternative from the choice set.\nWe apply these ideas to the 1992 US presidential elections and introduce a choice set logistic regression (CSLR) model which allows for the examination of both stages of electoral choice. The empirical results demonstrate that the heuristic-systematic model of electoral choice allows us both to better understand the electoral competition between Bush, Clinton and Perot in 1992 and to discover which voters are more inclined to consider more than one choice option. Consequently, this study has important implications for students of voting behavior and electoral competition and enriches our understanding of voters’ choices in third- or multi-party races."
+  },
+  {
+    "objectID": "papers/choice-under-complexity.html#download",
+    "href": "papers/choice-under-complexity.html#download",
+    "title": "Choice under Complexity: A Heuristic-Systematic Model of Electoral Behavior",
+    "section": "Download",
+    "text": "Download\nPaper (PDF)"
+  },
+  {
+    "objectID": "software/forthcoming-package.html",
+    "href": "software/forthcoming-package.html",
+    "title": "Rits",
+    "section": "",
+    "text": "This package will be coming in 2026. It is based on a very old paper. The original software was written in Basic. I am now finally getting around to programming this in R and also adding standard errors."
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "Software I have developed or co-developed. Add a .qmd file to the software/ folder for each package or tool.\n\n\n\n\n\n\n\n\n\nbrant\n\n\nTest for the parallel regression assumption in ordinal logit models (co-authored with Benjamin Schlegel).\n\n\n\n\n\n\n\n\n\n\nRits\n\n\nAn R Progran for Item Similarity Analysis.\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "teaching/inference.html",
+    "href": "teaching/inference.html",
+    "title": "Inference",
+    "section": "",
+    "text": "R is an outstanding platform for maximum likelihood estimation. These notes describe the maxLik package, a wrapper that gives access to the most important hill-climbing algorithms and provides a convenient way of displaying results. The notes also include a brief discussion of Wald and profile confidence intervals, likelihood ratio tests, and simulation (October 2025).\nRead online · PDF"
+  },
+  {
+    "objectID": "teaching/inference.html#a-primer-of-maximum-likelihood-programming-in-r",
+    "href": "teaching/inference.html#a-primer-of-maximum-likelihood-programming-in-r",
+    "title": "Inference",
+    "section": "",
+    "text": "R is an outstanding platform for maximum likelihood estimation. These notes describe the maxLik package, a wrapper that gives access to the most important hill-climbing algorithms and provides a convenient way of displaying results. The notes also include a brief discussion of Wald and profile confidence intervals, likelihood ratio tests, and simulation (October 2025).\nRead online · PDF"
+  },
+  {
+    "objectID": "teaching/foundations.html",
+    "href": "teaching/foundations.html",
+    "title": "Foundations",
+    "section": "",
+    "text": "Matrices, vectors, and their operations, with statistical applications (2018, 100 pages).\nPDF"
+  },
+  {
+    "objectID": "teaching/foundations.html#a-primer-of-matrix-algebra-for-social-scientists",
+    "href": "teaching/foundations.html#a-primer-of-matrix-algebra-for-social-scientists",
+    "title": "Foundations",
+    "section": "",
+    "text": "Matrices, vectors, and their operations, with statistical applications (2018, 100 pages).\nPDF"
+  },
+  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "Curriculum Vitae",
@@ -11,118 +158,34 @@
     "href": "cv.html#academic-positions",
     "title": "Curriculum Vitae",
     "section": "Academic Positions",
-    "text": "Academic Positions\nProfessor of Political Methodology  University, Year–present"
+    "text": "Academic Positions\nProfessor of Political Methodology  University of Zurich, 2011–present"
   },
   {
-    "objectID": "cv.html#selected-publications",
-    "href": "cv.html#selected-publications",
+    "objectID": "cv.html#recent-publications",
+    "href": "cv.html#recent-publications",
     "title": "Curriculum Vitae",
-    "section": "Selected Publications",
-    "text": "Selected Publications\n\n\nAuthor, A., & Steenbergen, M. (Year). Title of the article. Journal Name, Volume(Issue), pages."
+    "section": "Recent Publications",
+    "text": "Recent Publications\n\n\nArticles\n\nThe Universalist Divide: Cleavages, Identities, and Party Preferences in the EU (2026). Journal of European Public Policy 33(2), 495–527 (with Delia Zollinger, Silja Häusermann, Simon Bornschier, and Lukas Haffert).\nRealignment within the Right Field: Competition between the Mainstream Right and the Far Right (2026). West European Politics 49(3), 812–840 (with Silja Häusermann, Simon Bornschier, and Delia Zollinger).\nMapping Ignorance: A Scoping Review of Political and Communication Studies on Ignorance (2025). Review of Communication 25(4), 250–266 (with Maud Reveilhac).\nMultidimensional Party Polarization in Europe: Cross-Cutting Divides and Effective Dimensionality (2025). British Journal of Political Science. Accepted for publication (with Jelle Koedam and Garret Binding).\nCausal Inference with Latent Outcomes (2024). American Journal of Political Science. Early view (with Lukas F. Stoetzer and Xiang Zhou).\nThe Comparative Meaning of Political Space: A Comprehensive Modeling Approach (2024). Political Science Research and Methods 12(3), 643–651 (with Garret Binding and Jelle Koedam).\nThe Russian Threat and the Consolidation of the West: How Populism and EU-Skepticism Shape Party Support for Ukraine (2024). European Union Politics 25(3), 459–482 (with Liesbet Hooghe, Gary Marks, Ryan Bakker, Seth Jolly, Jonathan Polk, Jan Rovny, and Milada Anna Vachudova).\nThe Social Bases of Political Parties: A New Measure and Survey (2023). British Journal of Political Science 53(1), 249–260 (with Gary Marks, David Attewell, Liesbet Hooghe, and Jan Rovny).\n\n\n\nOther\n\nCleavage Theory (2023). In Elgar Encyclopedia of Political Sociology, edited by Maria Grasso and Marco Giugni. Edward Elgar (with David Attewell)."
+  },
+  {
+    "objectID": "cv.html#recent-teaching",
+    "href": "cv.html#recent-teaching",
+    "title": "Curriculum Vitae",
+    "section": "Recent Teaching",
+    "text": "Recent Teaching\n\nAI in quantitative research (RECSM Summer School)\nBayesian inference (postgraduate UZH)\nCausal inference (post-graduate UZH)\nDeep learning for text and vision (postgraduate UZH and Essex Summer School in Social Science Data Analysis)\nMachine learning (postgraduate UZH, Essex Summer School in Social Science Data Analysis, and Summer School in Social Science Methods at Lugano)\nPolitical behavior (undergraduate UZH)\nSurvey research methods (postgraduate UZH and University of Konstanz)"
   },
   {
     "objectID": "cv.html#grants-awards",
     "href": "cv.html#grants-awards",
     "title": "Curriculum Vitae",
     "section": "Grants & Awards",
-    "text": "Grants & Awards\n\nGrant or award, funder, year"
+    "text": "Grants & Awards\n\nLarge-Scale Political Participation: Issue Identification, Deliberation, and Co-creation, Swiss National Science Foundation, CRSII5_205975. (Co-PI, extended to 2027.)"
   },
   {
     "objectID": "cv.html#service",
     "href": "cv.html#service",
     "title": "Curriculum Vitae",
     "section": "Service",
-    "text": "Service\n\nEditorial board memberships, reviewing, committee work"
-  },
-  {
-    "objectID": "software.html",
-    "href": "software.html",
-    "title": "Software",
-    "section": "",
-    "text": "Software I have developed or co-developed. Add a .qmd file to the software/ folder for each package or tool.\n\n\n\n\n\n\n\n\n\nexamplepkg\n\n\nAn R package for … (co-developed with …)\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Marco Steenbergen",
-    "section": "",
-    "text": "Hailing from the Netherlands, I have bounced between Europe and North America in pursuit of one abiding question: how do people—politicians and citizens alike—arrive at their political judgments and decisions? The search has taken me to the intersection of political science and psychology, with rigorous quantitative methods as my instruments of choice. Increasingly, those methods draw on computational social science, and this blend of political science, psychology, and computation now defines my work. I have ranged across many topics, but my current interests center on theoretical and methodological approaches to choice modeling, polarization in complex ideological landscapes, AI and political cognition, and AI in social science research methods. I am currently a professor of political methodology at the University of Zurich. I am also the co-editor of Advances in Political Psychology, as well as associate editor of various other journals.\nThis site collects my CV, teaching materials, software, and working papers. For occasional longer-form writing, subscribe to my Substack, Augmented Inquiry."
-  },
-  {
-    "objectID": "index.html#welcome",
-    "href": "index.html#welcome",
-    "title": "Marco Steenbergen",
-    "section": "",
-    "text": "Hailing from the Netherlands, I have bounced between Europe and North America in pursuit of one abiding question: how do people—politicians and citizens alike—arrive at their political judgments and decisions? The search has taken me to the intersection of political science and psychology, with rigorous quantitative methods as my instruments of choice. Increasingly, those methods draw on computational social science, and this blend of political science, psychology, and computation now defines my work. I have ranged across many topics, but my current interests center on theoretical and methodological approaches to choice modeling, polarization in complex ideological landscapes, AI and political cognition, and AI in social science research methods. I am currently a professor of political methodology at the University of Zurich. I am also the co-editor of Advances in Political Psychology, as well as associate editor of various other journals.\nThis site collects my CV, teaching materials, software, and working papers. For occasional longer-form writing, subscribe to my Substack, Augmented Inquiry."
-  },
-  {
-    "objectID": "index.html#interests",
-    "href": "index.html#interests",
-    "title": "Marco Steenbergen",
-    "section": "Interests",
-    "text": "Interests\n\nChoice modeling\nPolarization in complex ideological landscapes\nAI and political cognition\nAI in social science research methods"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Marco Steenbergen",
-    "section": "Education",
-    "text": "Education\nPhD in Political Science Stony Brook University, 1994\nMA (Drs.) in Political Science University of Amsterdam, 1988"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Courses I teach, with slides, syllabi, and lab materials. Each card below is a page in the teaching/ folder — add a new .qmd file there and it appears here automatically.\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Political Methodology\n\n\nMA course · slides, syllabus, and R labs\n\n\n\nFeb 1, 2026\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "papers.html",
-    "href": "papers.html",
-    "title": "Working Papers",
-    "section": "",
-    "text": "Current working papers. Drafts are linked where available; comments are welcome by email."
-  },
-  {
-    "objectID": "papers.html#section",
-    "href": "papers.html#section",
-    "title": "Working Papers",
-    "section": "2026",
-    "text": "2026\nTitle of Working Paper One (with Co-Author) Short one-sentence abstract or status note (e.g., under review). Draft PDF · Replication materials\nTitle of Working Paper Two Short one-sentence abstract or status note. Draft PDF"
-  },
-  {
-    "objectID": "software/example-package.html",
-    "href": "software/example-package.html",
-    "title": "examplepkg",
-    "section": "",
-    "text": "What it does. One-paragraph description of the package.\nInstallation\ninstall.packages(\"examplepkg\")\n# or the development version:\nremotes::install_github(\"user/examplepkg\")\nLinks: GitHub · CRAN · Documentation"
-  },
-  {
-    "objectID": "teaching/example-course.html",
-    "href": "teaching/example-course.html",
-    "title": "Introduction to Political Methodology",
-    "section": "",
-    "text": "Download the syllabus (PDF)"
-  },
-  {
-    "objectID": "teaching/example-course.html#syllabus",
-    "href": "teaching/example-course.html#syllabus",
-    "title": "Introduction to Political Methodology",
-    "section": "",
-    "text": "Download the syllabus (PDF)"
-  },
-  {
-    "objectID": "teaching/example-course.html#slides",
-    "href": "teaching/example-course.html#slides",
-    "title": "Introduction to Political Methodology",
-    "section": "Slides",
-    "text": "Slides\n\n\n\nWeek\nTopic\nSlides\n\n\n\n\n1\nIntroduction\nPDF\n\n\n2\nLinear models\nPDF"
-  },
-  {
-    "objectID": "teaching/example-course.html#labs",
-    "href": "teaching/example-course.html#labs",
-    "title": "Introduction to Political Methodology",
-    "section": "Labs",
-    "text": "Labs\nLab materials are on GitHub."
+    "text": "Service\n\nCo-editor of Advances in Political Psychology.\nSpecialty Chief Editor, Frontiers in Political Science.\nAssociate Editor, Frontiers in Political Science (2023–2026)."
   }
 ]
