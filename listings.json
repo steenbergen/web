@@ -1,7 +1,9 @@
 [
   {
     "listing": "/blog.html",
-    "items": []
+    "items": [
+      "/posts/multilevel-binary/index.html"
+    ]
   },
   {
     "listing": "/teaching.html",

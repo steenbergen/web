@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://steenbergen.github.io/web/blog.html</loc>
-    <lastmod>2026-11-07T09:14:40.290Z</lastmod>
+    <lastmod>2026-11-07T10:37:01.330Z</lastmod>
   </url>
   <url>
     <loc>https://steenbergen.github.io/web/teaching/measurement.html</loc>
@@ -23,6 +23,10 @@
   <url>
     <loc>https://steenbergen.github.io/web/index.html</loc>
     <lastmod>2026-11-01T08:38:59.621Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steenbergen.github.io/web/posts/multilevel-binary/index.html</loc>
+    <lastmod>2026-11-07T10:32:58.978Z</lastmod>
   </url>
   <url>
     <loc>https://steenbergen.github.io/web/teaching.html</loc>

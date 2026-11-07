@@ -87,9 +87,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-image','listing-title','listing-description','listing-date','listing-author','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-description','listing-date','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-categories"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -216,7 +216,7 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="QmF5ZXNpYW4=">Bayesian <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TG9naXQ=">Logit <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TXVsdGlsZXZlbCUyMG1vZGVscw==">Multilevel models <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UHJvYml0">Probit <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Ug==">R <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U2ltdWxhdGlvbg==">Simulation <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -244,9 +244,41 @@ window.Quarto = {
 
 
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="QmF5ZXNpYW4lMkNMb2dpdCUyQ1Byb2JpdCUyQ011bHRpbGV2ZWwlMjBtb2RlbHMlMkNSJTJDU2ltdWxhdGlvbg==" data-listing-date-sort="1793574000000" data-listing-file-modified-sort="1794047578978" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="17" data-listing-word-count-sort="3275">
+<a href="./posts/multilevel-binary/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Population-averaged predictions from multilevel probit models
+</h5>
+<div class="listing-categories">
 
+<div class="listing-category" onclick="window.quartoListingCategory('QmF5ZXNpYW4='); return false;">Bayesian</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('TG9naXQ='); return false;">Logit</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('UHJvYml0'); return false;">Probit</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('TXVsdGlsZXZlbCUyMG1vZGVscw=='); return false;">Multilevel models</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('Ug=='); return false;">R</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('U2ltdWxhdGlvbg=='); return false;">Simulation</div>
+
+</div>
+<div class="card-text listing-description delink">
+<p>How do we do a correct population-averaged interpretation of multilevel models with binary dependent variables? This blog post answers that question. It shows the bias when things go wrong. It also shows how one can obtain the correct…</p>
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+November 2, 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
 </div></main> <!-- /main -->
