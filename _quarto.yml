@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Marco Steenbergen"
+  site-url: https://steenbergen.github.io/web
   description: "Personal academic website"
   navbar:
     background: primary
@@ -16,8 +17,10 @@ website:
         href: teaching.qmd
       - text: "Software"
         href: software.qmd
-      - text: "Working Papers"
-        href: papers.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Blog"
+        href: blog.qmd
     right:
       - icon: substack
         href: https://augmentedinquiry.substack.com
@@ -37,6 +40,9 @@ website:
   page-footer:
     center: |
       © 2026 Marco Steenbergen · Built with [Quarto](https://quarto.org)
+
+execute:
+  freeze: auto
 
 format:
   html:

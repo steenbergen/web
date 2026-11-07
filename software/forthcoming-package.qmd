@@ -1,0 +1,9 @@
+---
+title: "Rits"
+description: "An R Progran for Item Similarity Analysis."
+order: 2
+---
+
+<!-- TODO: replace with the package name, description, installation, and links -->
+
+This package will be coming in 2026. It is based on a very old paper. The original software was written in Basic. I am now finally getting around to programming this in R and also adding standard errors.

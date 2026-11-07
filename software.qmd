@@ -3,7 +3,7 @@ title: "Software"
 listing:
   contents: software
   type: default
-  sort: "title"
+  sort: "order"
   fields: [title, description]
 toc: false
 ---

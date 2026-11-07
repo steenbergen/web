@@ -3,11 +3,9 @@ title: "Teaching"
 listing:
   contents: teaching
   type: grid
-  sort: "date desc"
-  fields: [title, description, date]
+  sort: "order"
+  fields: [title, description]
 toc: false
 ---
 
-Courses I teach, with slides, syllabi, and lab materials. Each card below
-is a page in the `teaching/` folder — add a new `.qmd` file there and it
-appears here automatically.
+Notes and primers I have written that you may find useful. Many of these cover statistics and data science, while others focus on substantive topics.

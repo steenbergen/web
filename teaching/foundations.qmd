@@ -1,0 +1,14 @@
+---
+title: "Foundations"
+description: "Mathematical and statistical foundations."
+order: 1
+---
+
+## A Primer of Matrix Algebra for Social Scientists
+
+Matrices, vectors, and their operations, with statistical applications (2018,
+100 pages).
+
+[PDF](../files/teaching/matrix-algebra.pdf)
+
+<!-- TODO: replace with a Quarto version -->

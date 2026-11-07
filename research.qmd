@@ -1,0 +1,14 @@
+---
+title: "Research"
+listing:
+  contents: papers
+  type: default
+  sort: "date desc"
+  fields: [title, author, description, date, categories]
+  categories: true
+toc: false
+---
+
+Working papers, conference papers, and other unpublished work. Comments are
+welcome by [email](mailto:marco.steenbergen@gmail.com). Published articles are
+listed on my [CV](cv.qmd) and [Google Scholar](https://scholar.google.com/citations?user=T03VQ4gAAAAJ) profile.

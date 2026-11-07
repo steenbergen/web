@@ -1,7 +1,7 @@
 # Academic website
 
 Personal academic website built with [Quarto](https://quarto.org):
-CV, teaching materials, software, and working papers.
+CV, teaching resources, software, research, and a blog.
 
 ## Local preview
 
@@ -42,8 +42,8 @@ quarto publish gh-pages
 
 - `index.qmd` — landing/about page
 - `cv.qmd` — CV page (put the PDF in `files/cv.pdf`)
-- `teaching.qmd` + `teaching/` — auto-listing of course pages
+- `teaching.qmd` + `teaching/` — one page per topic, shown as boxes on the Teaching page
 - `software.qmd` + `software/` — auto-listing of software pages
-- `papers.qmd` — working papers
+- `research.qmd` + `papers/` — papers listing; `blog.qmd` + `posts/` — blog
 - `styles/theme.scss` — colors and fonts (olive/sand palette, Agdasima
   headings, Source Sans 3 body)

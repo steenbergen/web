@@ -1,0 +1,17 @@
+---
+title: "Blog"
+listing:
+  contents: posts
+  type: default
+  sort: "date desc"
+  fields: [image, title, description, date, author, categories]
+  categories: true
+  date-format: "MMMM D, YYYY"
+  max-description-length: 250
+  feed: true
+toc: false
+---
+
+Notes on methods, data, and code, with the code left in. For longer essays
+on using AI in research, see my Substack,
+[Augmented Inquiry](https://augmentedinquiry.substack.com).

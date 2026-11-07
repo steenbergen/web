@@ -1,0 +1,16 @@
+---
+title: "Inference"
+description: "Maximum likelihood, method of moments, Bayesian inference, and hypothesis testing."
+order: 2
+---
+
+## A Primer of Maximum Likelihood Programming in R
+
+R is an outstanding platform for maximum likelihood estimation. These notes
+describe the `maxLik` package, a wrapper that gives access to the most
+important hill-climbing algorithms and provides a convenient way of displaying
+results. The notes also include a brief discussion of Wald and profile
+confidence intervals, likelihood ratio tests, and simulation (October 2025).
+
+[Read online](../files/teaching/mle-r.html) ·
+[PDF](../files/teaching/mle-r.pdf)

@@ -1,0 +1,15 @@
+---
+title: "Machine Learning"
+description: "Machine and deep learning."
+order: 4
+---
+
+## Coalition Lattices for Interpretable Machine Learning
+
+In interpretable machine learning, breakdown plots and Shap-values can be seen
+as different methods applied to a so-called coalition lattice. These notes show
+how to create a coalition lattice and how to derive different post-hoc
+interpretations from it, with a worked example on an ensemble of five trees
+(August 2026, 19 pages).
+
+[PDF](../files/teaching/coalition-lattices.pdf)

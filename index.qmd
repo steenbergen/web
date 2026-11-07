@@ -1,5 +1,5 @@
 ---
-title: "Marco Steenbergen"
+title: "Marco R. Steenbergen"
 about:
   template: trestles
   image: images/profile.jpg
@@ -13,31 +13,16 @@ toc: false
 
 ## Welcome
 
-Hailing from the Netherlands, I have bounced between Europe and North America
-in pursuit of one abiding question: how do people---politicians and citizens
-alike---arrive at their political judgments and decisions? The search has
-taken me to the intersection of political science and psychology, with
-rigorous quantitative methods as my instruments of choice. Increasingly,
-those methods draw on computational social science, and this blend of
-political science, psychology, and computation now defines my work. I have
-ranged across many topics, but my current interests center on theoretical and
-methodological approaches to choice modeling, polarization in complex
-ideological landscapes, AI and political cognition, and AI in social science
-research methods. I am currently a professor of political methodology at the
-University of Zurich. I am also the co-editor of
-*Advances in Political Psychology*, as well as associate editor of various
-other journals.
+Hailing from the Netherlands, I have bounced between Europe and North America in pursuit of one abiding question: how do people---politicians and citizens alike---arrive at their political judgments and decisions? The search has taken me to the intersection of political science and psychology, with rigorous quantitative methods as my instruments of choice. Increasingly, those methods draw on computational social science, and this blend of political science, psychology, and computation now defines my work. I have worked on many topics, but my current interests center on theoretical and methodological approaches to choice modeling, polarization in complex ideological landscapes, AI and political cognition and communication, and AI in social science research methods. I am currently a professor of political methodology at the University of Zurich. I am also the co-editor of *Advances in Political Psychology*, as well as Specialty Chief Editor for Frontiers.
 
-This site collects my [CV](cv.qmd), [teaching materials](teaching.qmd),
-[software](software.qmd), and [working papers](papers.qmd). For occasional
-longer-form writing, subscribe to my Substack,
+This site collects my [CV](cv.qmd), [teaching resources](teaching.qmd), [software](software.qmd), [research](research.qmd), and [blog](blog.qmd). For occasional longer-form writing, subscribe to my Substack,
 [Augmented Inquiry](https://augmentedinquiry.substack.com).
 
 ## Interests
 
 - Choice modeling
 - Polarization in complex ideological landscapes
-- AI and political cognition
+- AI and political cognition and communication
 - AI in social science research methods
 
 ## Education

@@ -1,0 +1,19 @@
+---
+title: "brant"
+description: "Test for the parallel regression assumption in ordinal logit models (co-authored with Benjamin Schlegel)."
+order: 1
+---
+
+**What it does.** Tests the parallel regression assumption (Brant 1990) for
+ordinal logit models fitted with `polr()` from the `MASS` package. Developed
+with Benjamin Schlegel.
+
+**Installation**
+
+```r
+install.packages("brant")
+```
+
+**Links:** [CRAN](https://CRAN.R-project.org/package=brant) ·
+[Package website](https://benjaminschlegel.ch/r/brant/) ·
+[Brant (1990)](https://doi.org/10.2307/2532457)

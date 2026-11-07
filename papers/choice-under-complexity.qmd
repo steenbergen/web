@@ -1,0 +1,41 @@
+---
+title: "Choice under Complexity: A Heuristic-Systematic Model of Electoral Behavior"
+author:
+  - Marco R. Steenbergen
+  - Dominik Hangartner
+  - Catherine E. de Vries
+date: 2011-03-31
+description: "Conference paper · Midwest Political Science Association, Chicago, 2011"
+categories: [Conference paper, Voting behavior]
+toc: false
+citation:
+  type: paper-conference
+  container-title: "Annual Meeting of the Midwest Political Science Association, Chicago, March 31-April 3, 2011"
+  issued: 2011-03-31
+  pdf-url: https://steenbergen.github.io/web/files/papers/steenbergen-hangartner-devries-choice-under-complexity.pdf
+google-scholar: true
+---
+
+## Abstract
+
+This study develops and empirically substantiates a heuristic-systematic model
+of electoral behavior, in which we understand vote choice as a two-stage
+decision making process. In the first stage voters use broad-based heuristics,
+such as partisanship, to narrow down all possible choice options to a few viable
+choices. This subset of choice alternatives constitutes the choice set. In a
+subsequent second stage voters engage in more systematic processing behavior
+using campaign issues to select a final alternative from the choice set.
+
+We apply these ideas to the 1992 US presidential elections and introduce a
+choice set logistic regression (CSLR) model which allows for the examination of
+both stages of electoral choice. The empirical results demonstrate that the
+heuristic-systematic model of electoral choice allows us both to better
+understand the electoral competition between Bush, Clinton and Perot in 1992 and
+to discover which voters are more inclined to consider more than one choice
+option. Consequently, this study has important implications for students of
+voting behavior and electoral competition and enriches our understanding of
+voters' choices in third- or multi-party races.
+
+## Download
+
+[Paper (PDF)](../files/papers/steenbergen-hangartner-devries-choice-under-complexity.pdf)

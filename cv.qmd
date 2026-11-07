@@ -11,20 +11,44 @@ toc: true
 ## Academic Positions
 
 **Professor of Political Methodology** <!-- TODO -->
-University, Year–present
+University of Zurich, 2011–present
 
-## Selected Publications
+## Recent Publications
 
-<!-- TODO: either list highlights here by hand, or manage them with a
-.bib file and Quarto citations. Example entry: -->
+<!-- Generated from /Users/prior/Operations/CV/publications.bib (last 3 years);
+     regenerate when the CV bib changes. Full list in the PDF above. -->
 
-1. Author, A., & Steenbergen, M. (Year). Title of the article.
-   *Journal Name*, Volume(Issue), pages.
+### Articles
+
+- The Universalist Divide: Cleavages, Identities, and Party Preferences in the EU (2026). *Journal of European Public Policy* 33(2), 495–527 (with Delia Zollinger, Silja Häusermann, Simon Bornschier, and Lukas Haffert).
+- Realignment within the Right Field: Competition between the Mainstream Right and the Far Right (2026). *West European Politics* 49(3), 812–840 (with Silja Häusermann, Simon Bornschier, and Delia Zollinger).
+- Mapping Ignorance: A Scoping Review of Political and Communication Studies on Ignorance (2025). *Review of Communication* 25(4), 250–266 (with Maud Reveilhac).
+- Multidimensional Party Polarization in Europe: Cross-Cutting Divides and Effective Dimensionality (2025). *British Journal of Political Science*. Accepted for publication (with Jelle Koedam and Garret Binding).
+- Causal Inference with Latent Outcomes (2024). *American Journal of Political Science*. Early view (with Lukas F. Stoetzer and Xiang Zhou).
+- The Comparative Meaning of Political Space: A Comprehensive Modeling Approach (2024). *Political Science Research and Methods* 12(3), 643–651 (with Garret Binding and Jelle Koedam).
+- The Russian Threat and the Consolidation of the West: How Populism and EU-Skepticism Shape Party Support for Ukraine (2024). *European Union Politics* 25(3), 459–482 (with Liesbet Hooghe, Gary Marks, Ryan Bakker, Seth Jolly, Jonathan Polk, Jan Rovny, and Milada Anna Vachudova).
+- The Social Bases of Political Parties: A New Measure and Survey (2023). *British Journal of Political Science* 53(1), 249–260 (with Gary Marks, David Attewell, Liesbet Hooghe, and Jan Rovny).
+
+### Other
+
+- Cleavage Theory (2023). In *Elgar Encyclopedia of Political Sociology*, edited by Maria Grasso and Marco Giugni. Edward Elgar (with David Attewell).
+
+## Recent Teaching
+- AI in quantitative research (RECSM Summer School)
+- Bayesian inference (postgraduate UZH)
+- Causal inference (post-graduate UZH)
+- Deep learning for text and vision (postgraduate UZH and Essex Summer School in Social Science Data Analysis)
+- Machine learning (postgraduate UZH, Essex Summer School in Social Science Data Analysis, and Summer School in Social Science Methods at Lugano)
+- Political behavior (undergraduate UZH)
+- Survey research methods (postgraduate UZH and University of Konstanz)
 
 ## Grants & Awards
 
-- Grant or award, funder, year <!-- TODO -->
+- Large-Scale Political Participation: Issue Identification, Deliberation, and
+Co-creation, Swiss National Science Foundation, CRSII5_205975. (Co-PI, extended to 2027.)
 
 ## Service
 
-- Editorial board memberships, reviewing, committee work <!-- TODO -->
+- Co-editor of *Advances in Political Psychology*.
+- Specialty Chief Editor, *Frontiers in Political Science*.
+- Associate Editor, *Frontiers in Political Science* (2023–2026).
