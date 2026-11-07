@@ -2,9 +2,9 @@
 title: "Blog"
 listing:
   contents: posts
-  type: default
+  type: grid
   sort: "date desc"
-  fields: [image, title, description, date, author, categories]
+  fields: [title, description, date, categories]
   categories: true
   date-format: "MMMM D, YYYY"
   max-description-length: 250

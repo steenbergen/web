@@ -1,9 +1,8 @@
 ---
 title: "Population-averaged predictions from multilevel probit models"
-description: ""
+description: "How do we do a correct population-averaged interpretation of multilevel models with binary dependent variables? This blog post answers that question. It shows the bias when things go wrong. It also shows how one can obtain the correct population-averaged predicted probabilities analytically, and through simulation,"
 date: 2026-11-02
 categories: [Bayesian, Logit, Probit, Multilevel models, R, Simulation]
-draft: true
 editor: 
   markdown: 
     wrap: 72
